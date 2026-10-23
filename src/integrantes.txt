@@ -1,5 +1,5 @@
 RMs e Nomes:
-RM:573392 - Nicolly florencio vilela (Tech Lead)
+RM:573392 - Nicolly florencio vilela (Tech Lead e Dev 2)
 RM:571971 - Brenda Priscila Chalco Condori (Dev 1)
 Repositório:
 https://github.com/restaurante-japonescp5/restaurante-japonescp5.git
